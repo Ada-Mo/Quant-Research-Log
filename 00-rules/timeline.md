@@ -6,7 +6,6 @@
 
 | 年份 | 赛区/组别 | 论文题目 | 作者/团队 | 学校 | 指导老师 | 获奖/入围状态 | 原文网址 |
 |---|---|---|---|---|---|---|---|
-| 2026 | 中国内地赛区 / 经济金融建模 | 未找到 | 未找到 | 未找到 | 未找到 | 截至检索时仅找到报名/日程/AI规则，未找到论文名单 | https://www.yau-awards.com/ |
 | 2025 | 总决赛 / 经济金融建模 | Firm-Level Impacts of Artificial Intelligence on Labor Demand: Evidence from Online Job Postings | 阎立谦 Liqian Yan、邱梓淳 Zichun Qiu、陈胤同 Yintong Chen | 上海星河湾双语学校 Shanghai Starriver Bilingual School | 邓鸣茂 Mingmao Deng、陈晶萍 Jingping Chen | 金奖 Gold Prize | https://www.yau-awards.com/show-86-56.html |
 | 2025 | 总决赛 / 经济金融建模 | Combating Counterfeits in Secondary Markets: Impacts of Manufacturer’s Blockchain Traceability and Platform’s AI-based Authentication | 李宜泽 Yize Li | 西安铁一中国际合作学校国际课程中心 Xi'an Tieyi International Curriculum Center | 庞琛 Chen Pang | 银奖 Silver Prize | https://www.yau-awards.com/show-86-56.html |
 | 2025 | 总决赛 / 经济金融建模 | From Intelligence to Performance: How Artificial Intelligence Applications Improve Firms’ Dual Performance | 沈陈菲 Chenfei Shen、胡谷蓁溱 Guzhenzhen Hu、李怡辰 Yichen Li | 南京外国语学校 Nanjing Foreign Language School | 宋哲 Zhe Song | 铜奖 Bronze Prize | https://www.yau-awards.com/show-86-56.html |
